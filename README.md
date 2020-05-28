@@ -2,4 +2,6 @@
 This project convert a generic keypad to an USB keyboard signal, using an Arduino.
 
 ## Instructables
-- TO ADD LINK -
+https://www.instructables.com/id/DIY-Keypad-to-USB-Keyboard-That-Beeps-Random
+
+Have fun!
