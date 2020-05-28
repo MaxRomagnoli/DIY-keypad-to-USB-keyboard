@@ -12,7 +12,7 @@ char hexaKeys[ROWS][COLS] = {
   {'*', '0', '#'}
 };
 
-byte rowPins[ROWS] = {3, 4, 5, 7};
+byte rowPins[ROWS] = {3, 4, 5, 6};
 byte colPins[COLS] = {7, 8, 9};
 
 unsigned long lastPeriodStart;
